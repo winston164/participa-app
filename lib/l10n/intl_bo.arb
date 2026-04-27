@@ -812,7 +812,7 @@
     "type": "String",
     "placeholders": {}
   },
-  "@newMessageInFluffyChat": {
+  "@newMessageInParticipa": {
     "type": "String",
     "placeholders": {}
   },

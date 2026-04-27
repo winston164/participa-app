@@ -754,7 +754,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "fluffychat": "FluffyChat",
+    "fluffychat": "Participa",
     "@fluffychat": {
         "type": "String",
         "placeholders": {}
@@ -911,7 +911,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "inviteText": "{username} vous a invité·e sur FluffyChat.\n1. Visiter fluffychat.im et installer l'application\n2. Inscrivez-vous ou connectez-vous\n3. Ouvrez le lien d'invitation :\n{link}",
+    "inviteText": "{username} vous a invité·e sur Participa.\n1. Visiter participa.app et installer l'application\n2. Inscrivez-vous ou connectez-vous\n3. Ouvrez le lien d'invitation :\n{link}",
     "@inviteText": {
         "type": "String",
         "placeholders": {
@@ -1073,8 +1073,8 @@
         "type": "String",
         "placeholders": {}
     },
-    "newMessageInFluffyChat": "💬 Nouveau message dans FluffyChat",
-    "@newMessageInFluffyChat": {
+    "newMessageInParticipa": "💬 Nouveau message dans Participa",
+    "@newMessageInParticipa": {
         "type": "String",
         "placeholders": {}
     },
@@ -1631,7 +1631,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "title": "FluffyChat",
+    "title": "Participa",
     "@title": {
         "description": "Title for the application",
         "type": "String",

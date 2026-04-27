@@ -471,7 +471,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "fluffychat": "FluffyChat",
+    "fluffychat": "Participa",
     "@fluffychat": {
         "type": "String",
         "placeholders": {}
@@ -583,7 +583,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "inviteText": "{username} запрошує вас у FluffyChat. \n1. Перейдіть на fluffychat.im й установіть застосунок \n2. Зареєструйтесь або ввійдіть \n3. Відкрийте запрошувальне посилання:\n {link}",
+    "inviteText": "{username} запрошує вас у Participa. \n1. Перейдіть на participa.app й установіть застосунок \n2. Зареєструйтесь або ввійдіть \n3. Відкрийте запрошувальне посилання:\n {link}",
     "@inviteText": {
         "type": "String",
         "placeholders": {
@@ -715,8 +715,8 @@
         "type": "String",
         "placeholders": {}
     },
-    "newMessageInFluffyChat": "💬 Нове повідомлення у FluffyChat",
-    "@newMessageInFluffyChat": {
+    "newMessageInParticipa": "💬 Нове повідомлення у Participa",
+    "@newMessageInParticipa": {
         "type": "String",
         "placeholders": {}
     },
@@ -1005,7 +1005,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "title": "FluffyChat",
+    "title": "Participa",
     "@title": {
         "description": "Title for the application",
         "type": "String",
@@ -2496,7 +2496,7 @@
     "noticeChatBackupDeviceVerification": "Примітка: Коли ви під'єднуєте всі свої пристрої до резервної копії бесіди, вони автоматично верифікуються.",
     "continueText": "Продовжити",
     "manageAccount": "Керувати обліковим записом",
-    "welcomeText": "Привіт-привіт 👋 Це FluffyChat. Ви можете увійти на будь-який сервер, сумісний із https://matrix.org. А потім спілкуватися з будь-ким. Це величезна децентралізована мережа для обміну повідомленнями!",
+    "welcomeText": "Привіт-привіт 👋 Це Participa. Ви можете увійти на будь-який сервер, сумісний із https://matrix.org. А потім спілкуватися з будь-ким. Це величезна децентралізована мережа для обміну повідомленнями!",
     "blur": "Розмиття:",
     "opacity": "Прозорість:",
     "setWallpaper": "Встановити шпалери",
@@ -2772,9 +2772,9 @@
     "baseUrl": "Основний URL",
     "signIn": "Увійти",
     "createNewAccount": "Створити новий обліковий запис",
-    "signUpGreeting": "FluffyChat децентралізований! Виберіть сервер, на якому ви хочете створити свій обліковий запис, і почнімо!",
+    "signUpGreeting": "Participa децентралізований! Виберіть сервер, на якому ви хочете створити свій обліковий запис, і почнімо!",
     "signInGreeting": "Ви вже маєте обліковий запис у Matrix? Ласкаво просимо! Виберіть свій домашній сервер і ввійдіть.",
-    "appIntro": "За допомогою FluffyChat ви можете спілкуватися зі своїми друзями. Це безпечний децентралізований месенджер [matrix]! Дізнайтеся більше на сайті https://matrix.org або просто зареєструйтеся.",
+    "appIntro": "За допомогою Participa ви можете спілкуватися зі своїми друзями. Це безпечний децентралізований месенджер [matrix]! Дізнайтеся більше на сайті https://matrix.org або просто зареєструйтеся.",
     "theProcessWasCanceled": "Процес скасовано.",
     "join": "Приєднатись",
     "searchOrEnterHomeserverAddress": "Знайдіть або введіть адресу домашнього сервера",
@@ -2793,12 +2793,12 @@
     },
     "createNewChat": "Створити новий чат",
     "reset": "Скинути",
-    "supportFluffyChat": "Підтримати FluffyChat",
+    "supportParticipa": "Підтримати Participa",
     "support": "Підтримка",
-    "fluffyChatSupportBannerMessage": "FluffyChat потребує Вашої підтримки!\n❤️❤️❤️\nFluffyChat завжди залишатиметься безкоштовним, однак розробка та хостинг потребують коштів.\nМайбутнє проєкту залежить від підтримки людей, як Ви.",
-    "skipSupportingFluffyChat": "Пропустити підтримку FluffyChat",
+    "fluffyChatSupportBannerMessage": "Participa потребує Вашої підтримки!\n❤️❤️❤️\nParticipa завжди залишатиметься безкоштовним, однак розробка та хостинг потребують коштів.\nМайбутнє проєкту залежить від підтримки людей, як Ви.",
+    "skipSupportingParticipa": "Пропустити підтримку Participa",
     "iDoNotWantToSupport": "Я не хочу підтримувати",
-    "iAlreadySupportFluffyChat": "Я вже підтримую FluffyChat",
+    "iAlreadySupportParticipa": "Я вже підтримую Participa",
     "setLowPriority": "Встановити низький пріоритет",
     "unsetLowPriority": "Скинути низький пріоритет",
     "removeCallFromChat": "Видалити виклик з чату",

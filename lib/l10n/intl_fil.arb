@@ -870,7 +870,7 @@
     "type": "String",
     "placeholders": {}
   },
-  "fluffychat": "FluffyChat",
+  "fluffychat": "Participa",
   "@fluffychat": {
     "type": "String",
     "placeholders": {}

@@ -158,7 +158,7 @@
       }
     }
   },
-  "fluffychat": "FluffyChat",
+  "fluffychat": "Participa",
   "@fluffychat": {
     "type": "String",
     "placeholders": {}
@@ -967,7 +967,7 @@
       }
     }
   },
-  "@newMessageInFluffyChat": {
+  "@newMessageInParticipa": {
     "type": "String",
     "placeholders": {}
   },

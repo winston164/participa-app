@@ -629,7 +629,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "fluffychat": "FluffyChat",
+    "fluffychat": "Participa",
     "@fluffychat": {
         "type": "String",
         "placeholders": {}
@@ -786,7 +786,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "inviteText": "{username}があなたをFluffyChatに招待しました。\n1. FluffyChatをインストール:　fluffychat.im \n2. アカウントの作成、またはサインインを行う\n3. 招待リンクを開く\n {link}",
+    "inviteText": "{username}があなたをParticipaに招待しました。\n1. Participaをインストール:　participa.app \n2. アカウントの作成、またはサインインを行う\n3. 招待リンクを開く\n {link}",
     "@inviteText": {
         "type": "String",
         "placeholders": {
@@ -938,8 +938,8 @@
         "type": "String",
         "placeholders": {}
     },
-    "newMessageInFluffyChat": "💬 FluffyChatに新しいメッセージがあります",
-    "@newMessageInFluffyChat": {
+    "newMessageInParticipa": "💬 Participaに新しいメッセージがあります",
+    "@newMessageInParticipa": {
         "type": "String",
         "placeholders": {}
     },
@@ -1425,7 +1425,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "title": "FluffyChat",
+    "title": "Participa",
     "@title": {
         "description": "Title for the application",
         "type": "String",

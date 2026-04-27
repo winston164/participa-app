@@ -938,7 +938,7 @@
   },
   "homeserver": "Hem-servitor",
   "@homeserver": {},
-  "fluffychat": "FluffyChat",
+  "fluffychat": "Participa",
   "@fluffychat": {
     "type": "String",
     "placeholders": {}
@@ -969,7 +969,7 @@
     "type": "String",
     "placeholders": {}
   },
-  "title": "FluffyChat",
+  "title": "Participa",
   "@title": {
     "description": "Title for the application",
     "type": "String",
@@ -1435,7 +1435,7 @@
       }
     }
   },
-  "@newMessageInFluffyChat": {
+  "@newMessageInParticipa": {
     "type": "String",
     "placeholders": {}
   },

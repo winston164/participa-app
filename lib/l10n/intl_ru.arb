@@ -751,7 +751,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "fluffychat": "FluffyChat",
+    "fluffychat": "Participa",
     "@fluffychat": {
         "type": "String",
         "placeholders": {}
@@ -908,7 +908,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "inviteText": "{username} пригласил(а) вас в FluffyChat. \n1. Посетите https://fluffychat.im и установите приложение \n2. Зарегистрируйтесь или войдите \n3. Откройте ссылку приглашения: \n {link}",
+    "inviteText": "{username} пригласил(а) вас в Participa. \n1. Посетите https://participa.app и установите приложение \n2. Зарегистрируйтесь или войдите \n3. Откройте ссылку приглашения: \n {link}",
     "@inviteText": {
         "type": "String",
         "placeholders": {
@@ -1061,8 +1061,8 @@
         "type": "String",
         "placeholders": {}
     },
-    "newMessageInFluffyChat": "💬 Новое сообщение во FluffyChat",
-    "@newMessageInFluffyChat": {
+    "newMessageInParticipa": "💬 Новое сообщение во Participa",
+    "@newMessageInParticipa": {
         "type": "String",
         "placeholders": {}
     },
@@ -1096,7 +1096,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "noGoogleServicesWarning": "Похоже, у вас нет служб Google на вашем телефоне. Это хорошее решение для вашей конфиденциальности! Для получения push-уведомлений во FluffyChat мы рекомендуем использовать ntfy. С ntfy или другим провайдером единых уведомлений вы можете получать push-уведомления безопасным способом передачи данных. Скачать ntfy можно из F-Droid или из Play Маркета.",
+    "noGoogleServicesWarning": "Похоже, у вас нет служб Google на вашем телефоне. Это хорошее решение для вашей конфиденциальности! Для получения push-уведомлений во Participa мы рекомендуем использовать ntfy. С ntfy или другим провайдером единых уведомлений вы можете получать push-уведомления безопасным способом передачи данных. Скачать ntfy можно из F-Droid или из Play Маркета.",
     "@noGoogleServicesWarning": {
         "type": "String",
         "placeholders": {}
@@ -1619,7 +1619,7 @@
         "type": "String",
         "placeholders": {}
     },
-    "title": "FluffyChat",
+    "title": "Participa",
     "@title": {
         "description": "Title for the application",
         "type": "String",
@@ -2452,7 +2452,7 @@
             }
         }
     },
-    "welcomeText": "Привет. Это FluffyChat. Вы можете подписаться на любой сервер, который совместим с https://matrix.org. А потом поболтать с кем нибудь. Это огромная децентрализованная сеть обмена сообщениями!",
+    "welcomeText": "Привет. Это Participa. Вы можете подписаться на любой сервер, который совместим с https://matrix.org. А потом поболтать с кем нибудь. Это огромная децентрализованная сеть обмена сообщениями!",
     "noContactInformationProvided": "Сервер не предоставляет никакой правдивой контактной информации",
     "aboutHomeserver": "О сервере {homeserver}",
     "@aboutHomeserver": {
@@ -2707,9 +2707,9 @@
     "logs": "Архивные записи",
     "advancedConfigs": "Расширенные Настройки",
     "advancedConfigurations": "Расширенные конфигурации",
-    "signUpGreeting": "FluffyChat децентрализорован! Выберите сервер, где вы хотите сделать свой аккаунт и заходите!",
+    "signUpGreeting": "Participa децентрализорован! Выберите сервер, где вы хотите сделать свой аккаунт и заходите!",
     "signInGreeting": "У вас есть уже аккаунт в Matrix? Добро пожаловать! Выберите свой сервер и войдите.",
-    "appIntro": "С FluffyChat'ом вы можете говорить со своими друзьями. Это защищённый децентрализорованный [matrix] мессенджер! Узнайте больше на https://matrix.org, если вам нравится или просто зарегистрироваться.",
+    "appIntro": "С Participa'ом вы можете говорить со своими друзьями. Это защищённый децентрализорованный [matrix] мессенджер! Узнайте больше на https://matrix.org, если вам нравится или просто зарегистрироваться.",
     "join": "Присоединиться",
     "countFiles": "{count} файлов",
     "@countFiles": {
@@ -2793,11 +2793,11 @@
     },
     "createNewChat": "Создать новый чат",
     "reset": "Сброс",
-    "supportFluffyChat": "Поддержите FluffyChat",
+    "supportParticipa": "Поддержите Participa",
     "support": "Поддержка",
-    "fluffyChatSupportBannerMessage": "FluffyChat нуждается в ВАШЕЙ помощи!\n❤️❤️❤️\nFluffyChat всегда будет бесплатным, но разработка и хостинг всё равно требуют затрат.\nБудущее проекта зависит от поддержки таких людей, как вы.",
-    "skipSupportingFluffyChat": "Пропустить помощь FluffyChat",
-    "iAlreadySupportFluffyChat": "Я уже поддерживаю FluffyChat",
+    "fluffyChatSupportBannerMessage": "Participa нуждается в ВАШЕЙ помощи!\n❤️❤️❤️\nParticipa всегда будет бесплатным, но разработка и хостинг всё равно требуют затрат.\nБудущее проекта зависит от поддержки таких людей, как вы.",
+    "skipSupportingParticipa": "Пропустить помощь Participa",
+    "iAlreadySupportParticipa": "Я уже поддерживаю Participa",
     "iDoNotWantToSupport": "Я не хочу поддерживать",
     "setLowPriority": "Установить низкий приоритет",
     "unsetLowPriority": "Неопределенный приоритет",
